@@ -15,3 +15,7 @@ Spring Boot REST API + Vue.js frontend + MySQL as the database.
 - PUT (/{id}): Update an existing task.
 - DELETE (/{id}): Delete an existing task.
 
+### Run application (in root directory)
+```
+mvn spring-boot:run
+```
